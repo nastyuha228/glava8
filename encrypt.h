@@ -1,0 +1,1 @@
+gvoid encrypt (char *message);
